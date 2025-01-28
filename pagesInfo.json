@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Главная",
+        "to": "/"
+    },
+    {
+        "title": "Дрифт-такси",
+        "to": "/drift"
+    },
+    {
+        "title": "Time Attack",
+        "to": "/timeattack"
+    },
+    {
+        "title": "Forza Karting",
+        "to": "/forza"
+    }
+]
